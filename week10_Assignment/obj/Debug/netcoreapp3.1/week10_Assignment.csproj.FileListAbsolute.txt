@@ -1,0 +1,14 @@
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.csproj.AssemblyReference.cache
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.AssemblyInfoInputs.cache
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.AssemblyInfo.cs
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.exe
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.deps.json
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.runtimeconfig.json
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.runtimeconfig.dev.json
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.dll
+C:\Users\garre\source\repos\week10_Assignment\bin\Debug\netcoreapp3.1\week10_Assignment.pdb
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.dll
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.pdb
+C:\Users\garre\source\repos\week10_Assignment\obj\Debug\netcoreapp3.1\week10_Assignment.genruntimeconfig.cache
